@@ -12,6 +12,7 @@
     "async": "2.1.x",
     "request": "2.79.x",
     "csv": "1.1.x",
+    "html-entities": "1.2.x",
     "underscore": "1.8.x"
   },
   "engines": {
