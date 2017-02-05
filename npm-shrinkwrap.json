@@ -77,6 +77,26 @@
       "from": "cryptiles@>=2.0.0 <3.0.0",
       "resolved": "http://registry.npmjs.org/cryptiles/-/cryptiles-2.0.5.tgz"
     },
+    "csv": {
+      "version": "1.1.1",
+      "from": "csv@>=1.1.0 <1.2.0",
+      "resolved": "http://registry.npmjs.org/csv/-/csv-1.1.1.tgz"
+    },
+    "csv-generate": {
+      "version": "1.0.0",
+      "from": "csv-generate@>=1.0.0 <2.0.0",
+      "resolved": "http://registry.npmjs.org/csv-generate/-/csv-generate-1.0.0.tgz"
+    },
+    "csv-parse": {
+      "version": "1.2.0",
+      "from": "csv-parse@>=1.2.0 <2.0.0",
+      "resolved": "http://registry.npmjs.org/csv-parse/-/csv-parse-1.2.0.tgz"
+    },
+    "csv-stringify": {
+      "version": "1.0.4",
+      "from": "csv-stringify@>=1.0.0 <2.0.0",
+      "resolved": "http://registry.npmjs.org/csv-stringify/-/csv-stringify-1.0.4.tgz"
+    },
     "dashdash": {
       "version": "1.14.1",
       "from": "dashdash@>=1.12.0 <2.0.0",
@@ -231,6 +251,11 @@
       "from": "lodash@>=4.14.0 <5.0.0",
       "resolved": "http://registry.npmjs.org/lodash/-/lodash-4.17.4.tgz"
     },
+    "lodash.get": {
+      "version": "4.4.2",
+      "from": "lodash.get@>=4.0.0 <5.0.0",
+      "resolved": "http://registry.npmjs.org/lodash.get/-/lodash.get-4.4.2.tgz"
+    },
     "mime-db": {
       "version": "1.26.0",
       "from": "mime-db@>=1.26.0 <1.27.0",
@@ -287,6 +312,11 @@
           "resolved": "http://registry.npmjs.org/assert-plus/-/assert-plus-1.0.0.tgz"
         }
       }
+    },
+    "stream-transform": {
+      "version": "0.1.1",
+      "from": "stream-transform@>=0.1.0 <0.2.0",
+      "resolved": "http://registry.npmjs.org/stream-transform/-/stream-transform-0.1.1.tgz"
     },
     "stringstream": {
       "version": "0.0.5",
