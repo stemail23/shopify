@@ -10,7 +10,8 @@ module.exports = function(grunt) {
 					reporter: 'spec',
 					mocha: require('mocha')
 				},
-				src: ['./test/general/**/*.js']
+				// src: ['./test/general/**/*.js', './test/shopify/**/*.js']
+				src: ['./test/shopify/**/*.js']
 			}
 		}
 	});
