@@ -15,6 +15,14 @@
     "html-entities": "1.2.x",
     "underscore": "1.8.x"
   },
+  "devDependencies": {
+    "mocha": "2.5.x",
+    "should": "9.0.x",
+    "mocha-jshint": "2.3.x",
+    "grunt": "1.0.x",
+    "grunt-mocha-test": "0.12.x",
+    "semver": "5.1.x"
+  },
   "engines": {
     "node": "6.2.0"
   }
